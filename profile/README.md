@@ -1,4 +1,3 @@
-# .github
 <div align="center">
 
 # ⛰️ The Mountain Systems
@@ -18,17 +17,11 @@ Automation, data cleanup, and lightweight web tools — built clean, built to wo
 ### 🐍 Python Automation
 Scripts that take repetitive manual work — renaming, sorting, organizing files — and make it instant.
 
-### 🧹 Data Cleaning
-Messy CSV/Excel exports turned into clean, usable data, on request.
-
 </td>
 <td width="50%" valign="top">
 
 ### 🕸️ Web Scraping
 Structured data pulled from public websites into usable formats.
-
-### 🖥️ Web & Systems
-Simple landing pages, Linux installs, dual-boot setups, and troubleshooting.
 
 </td>
 </tr>
